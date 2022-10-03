@@ -1,6 +1,0 @@
-<svg id="ICON_ERASE" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
-  <g id="Groupe_7" data-name="Groupe 7" transform="translate(0 -0.2)">
-    <circle id="Ellipse_1" data-name="Ellipse 1" cx="20" cy="20" r="20" transform="translate(0 0.2)" fill="#ccc"/>
-  </g>
-  <path id="Icon_awesome-trash-alt" data-name="Icon awesome-trash-alt" d="M1.357,19.679a2.036,2.036,0,0,0,2.036,2.036H15.607a2.036,2.036,0,0,0,2.036-2.036V5.429H1.357ZM12.893,8.821a.679.679,0,1,1,1.357,0v9.5a.679.679,0,1,1-1.357,0Zm-4.071,0a.679.679,0,1,1,1.357,0v9.5a.679.679,0,0,1-1.357,0Zm-4.071,0a.679.679,0,0,1,1.357,0v9.5a.679.679,0,0,1-1.357,0ZM18.321,1.357H13.232l-.4-.793A1.018,1.018,0,0,0,11.922,0H7.074a1.006,1.006,0,0,0-.908.564l-.4.793H.679A.679.679,0,0,0,0,2.036V3.393a.679.679,0,0,0,.679.679H18.321A.679.679,0,0,0,19,3.393V2.036A.679.679,0,0,0,18.321,1.357Z" transform="translate(10.5 9.143)" fill="#fff"/>
-</svg>
