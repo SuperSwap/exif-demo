@@ -35,8 +35,8 @@
         0
     ],
     "zoom": 3,
-    "sprite": "http://localhost:4200/assets/sprites/sprite",
-    "glyphs": "http://localhost:4200/assets/glyphs/{fontstack}/{range}.pbf",
+    "sprite": "https://superswap.github.io/exif-demo/assets/sprites/sprite",
+    "glyphs": "https://superswap.github.io/exif-demo/assets/glyphs/{fontstack}/{range}.pbf",
     "layers": [
         {
             "id": "land",
