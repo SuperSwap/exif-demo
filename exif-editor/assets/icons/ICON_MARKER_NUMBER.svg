@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="31" height="43.238" viewBox="0 0 31 43.238">
-  <g id="ICON_MARKER_NUMBER" transform="translate(0.5 0.5)">
-    <path id="Icon_ionic-md-pin" data-name="Icon ionic-md-pin" d="M21.75,2.25a14.9,14.9,0,0,0-15,14.7c0,11.025,15,27.3,15,27.3s15-16.275,15-27.3A14.9,14.9,0,0,0,21.75,2.25Zm0,19.95a5.251,5.251,0,1,1,5.357-5.25A5.253,5.253,0,0,1,21.75,22.2Z" transform="translate(-6.75 -2.25)" fill="#38dea8" stroke="#fff" stroke-width="1"/>
-    <circle id="Ellipse_3" data-name="Ellipse 3" cx="7" cy="7" r="7" transform="translate(8 8.2)" fill="#fff"/>
-    <g id="Groupe_19" data-name="Groupe 19" transform="translate(-21 -100.8)">
-      <circle id="Ellipse_4" data-name="Ellipse 4" cx="11" cy="11" r="11" transform="translate(25 105)" fill="#fff"/>
-    </g>
-  </g>
-</svg>
