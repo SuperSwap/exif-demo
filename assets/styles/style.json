@@ -209,19 +209,9 @@
             "type": "vector"
         }
     },
-<<<<<<< HEAD
     "sprite": "mapbox://sprites/valerian/cla809css000a14og0bz297ok/9y50xoqe7cxewk1afaxlb8ktb",
     "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
     "projection": {"name": "globe"},
-=======
-    "center": [
-        0,
-        0
-    ],
-    "zoom": 3,
-    "sprite": "https://superswap.github.io/exif-demo/assets/sprites/sprite",
-    "glyphs": "https://superswap.github.io/exif-demo/assets/glyphs/{fontstack}/{range}.pbf",
->>>>>>> ee1e84a30a251775d5381723f6eca079fa9769ca
     "layers": [
         {
             "id": "land",
